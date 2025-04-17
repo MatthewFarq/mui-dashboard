@@ -1,4 +1,3 @@
-import React from "react";
 import {
   Box,
   Typography,
@@ -6,7 +5,6 @@ import {
   Button,
   Chip,
   Paper,
-  Divider,
   Accordion,
   AccordionSummary,
   AccordionDetails,
