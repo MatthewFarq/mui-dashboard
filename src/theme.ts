@@ -24,13 +24,6 @@ declare module "@mui/material/styles" {
   }
 }
 
-// Define our custom colors as CSS variables
-const customColors = {
-  buttonPrimaryEnabled: "#ffffff",
-  buttonPrimaryHover: "rgba(255, 255, 255, 0.8)", // White with 80% opacity for hover
-  borderPrimary: "rgba(255, 255, 255, 0.3)", // White with 30% opacity for borders
-};
-
 const theme = createTheme({
   components: {
     MuiButton: {
